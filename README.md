@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">O projeto consiste em centralizar o monitoramento dos testes de consumo de banda de internet, de forma totalmente centralizada em um único local, necessitando apenas de um agente rodando no dispositivo IoT que será responsável por realizar os testes</p>
+<p align="left">O projeto consiste em centralizar o monitoramento dos testes de consumo de banda de internet, de forma centralizada em um único local, necessitando apenas de um agente rodando no dispositivo IoT que será responsável por realizar os testes</p>
 
 ###
 
