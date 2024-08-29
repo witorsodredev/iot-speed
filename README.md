@@ -12,6 +12,16 @@
 
 ###
 
+<p align="center">Após a finalização dos testes os dados são retornados da seguinte forma</p>
+
+###
+
+<div align="center">
+  <img height="500" src="https://github.com/user-attachments/assets/ba723739-cd31-4cad-a64d-e28aa858a01d"  />
+</div>
+
+###
+
 <p align="left">Agent responsável pelo monitoramento dos ativos <br>https://github.com/witorsodredev/agent-iot.git</p>
 
 ###
